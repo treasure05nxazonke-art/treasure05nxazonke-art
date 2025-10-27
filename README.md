@@ -7,3 +7,9 @@
 🍲 When I'm not programming, you'll find me savoring good food, watching series 🍿, or listening to music 🎶. I'm also a proud Seventh-day Adventist ✨.
 
 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/treasure-nxazonke-a20184370) to chat about tech, projects, or anything creative!
+
+**Skills:**  
+![HTML](https://img.shields.io/badge/HTML-FFE300?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
